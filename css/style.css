@@ -639,7 +639,7 @@
         right: 5% !important;
     }
     .swiper-container{
-        height: 360px;
+        height: 380px;
     }
     .info__text-left{
         font-size: 14px;
@@ -705,5 +705,9 @@
     }
     .info__img{
         max-width: 100%;
+    }
+    .swiper-slide img{
+        width: 100%;
+        margin: 0 auto;
     }
 }
